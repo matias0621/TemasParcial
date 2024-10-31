@@ -1,0 +1,14 @@
+[
+  {
+    "sexo": "M",
+    "nombre": "Juan",
+    "edad": 25,
+    "dni": "12345678"
+  },
+  {
+    "sexo": "F",
+    "nombre": "Ana",
+    "edad": 22,
+    "dni": "87654321"
+  }
+]
